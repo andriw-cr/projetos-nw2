@@ -10,6 +10,7 @@
     <div class="container">
         <nav>
             <ul class="menu">
+                <a href="#"><li>Inicio</li></a>
                 <a href="index.php"><li>Cadastro</li></a>
                 <a href="consultas.php"><li>Consultas</li></a>
             </ul>
